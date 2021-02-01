@@ -22,3 +22,7 @@ components, therefore a filter with 0.3 Hz cutoff frequency was used.
 There are three main signal types in the raw data: total acceleration, body acceleration, and body gyroscope. Each
 has 3 axises of data. This means that there are a total of nine variables for each time step.
 ```
+
+## License
+[Bhuwan Chandar Bisht](https://elearn.bits-pilani.ac.in/)
+[Astik Sachan](https://elearn.bits-pilani.ac.in/)
