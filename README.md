@@ -26,25 +26,24 @@ has 3 axises of data. This means that there are a total of nine variables for ea
 
 ## Images
 
-```bash
+
 ### Walking
 ![alt text](https://github.com/bhuwan23/Human-Activity-Recognition-Time-Series-Classification/blob/main/Walking.png)
-```
 
-```bash
+
+
 ### Laying
 ![alt text](https://github.com/bhuwan23/Human-Activity-Recognition-Time-Series-Classification/blob/main/laying.png)
-```
 
-```bash
+
 ### Accuracy
 ![alt text](https://github.com/bhuwan23/Human-Activity-Recognition-Time-Series-Classification/blob/main/accuracy.png)
-```
 
-```bash
+
+
 ### Confusion Matrix
 ![alt text](https://github.com/bhuwan23/Human-Activity-Recognition-Time-Series-Classification/blob/main/confusion%20matrix.png)
-```
+
 
 
 ## License
