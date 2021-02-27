@@ -23,6 +23,22 @@ There are three main signal types in the raw data: total acceleration, body acce
 has 3 axises of data. This means that there are a total of nine variables for each time step.
 ```
 
+
+##Images
+
+###Walking
+![alt text](https://github.com/bhuwan23/Human-Activity-Recognition-Time-Series-Classification/blob/main/Walking.png)
+
+###Laying
+![alt text](https://github.com/bhuwan23/Human-Activity-Recognition-Time-Series-Classification/blob/main/laying.png)
+
+###Accuracy
+![alt text](https://github.com/bhuwan23/Human-Activity-Recognition-Time-Series-Classification/blob/main/accuracy.png)
+
+###Confusion Matrix
+![alt text](https://github.com/bhuwan23/Human-Activity-Recognition-Time-Series-Classification/blob/main/confusion%20matrix.png)
+
+
 ## License
 [Bhuwan Chandar Bisht](https://elearn.bits-pilani.ac.in/)
 
